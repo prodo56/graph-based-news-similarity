@@ -1,0 +1,24 @@
+Results from bbc-cnn.txt
+Line: 50 - 87 =   71.56505 degrees
+Line: 50 - 89 =   72.07369 degrees
+Line: 6 - 18 =   73.89789 degrees
+Line: 2 - 87 =   74.206825 degrees
+Line: 50 - 13 =   75.03678 degrees
+Line: 2 - 13 =   75.52249 degrees
+Line: 25 - 45 =   76.28038 degrees
+Line: 20 - 11 =   77.07903 degrees
+Line: 44 - 21 =   77.47119 degrees
+Line: 20 - 60 =   77.82967 degrees
+Line: 50 - 17 =   77.82967 degrees
+Line: 37 - 3 =   77.994095 degrees
+Line: 37 - 88 =   77.994095 degrees
+Line: 40 - 83 =   78.02327 degrees
+Line: 10 - 21 =   78.33086 degrees
+Line: 6 - 19 =   78.35765 degrees
+Line: 58 - 10 =   78.46304 degrees
+Line: 6 - 17 =   78.69007 degrees
+Line: 2 - 15 =   79.20374 degrees
+Line: 64 - 63 =   79.48027 degrees
+Line: 65 - 50 =   79.48027 degrees
+Line: 2 - 16 =   79.97501 degrees
+Line: 10 - 20 =   79.97501 degrees

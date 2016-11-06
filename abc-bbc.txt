@@ -1,0 +1,16 @@
+Results from abc-bbc.txt
+Line: 38 - 20 =   67.2135 degrees
+Line: 38 - 51 =   67.79234 degrees
+Line: 38 - 55 =   67.79234 degrees
+Line: 38 - 57 =   67.79234 degrees
+Line: 6 - 50 =   68.15455 degrees
+Line: 38 - 56 =   73.221344 degrees
+Line: 36 - 4 =   74.10583 degrees
+Line: 34 - 10 =   74.173386 degrees
+Line: 5 - 6 =   77.594185 degrees
+Line: 14 - 6 =   78.69007 degrees
+Line: 36 - 31 =   78.69007 degrees
+Line: 24 - 56 =   78.9042 degrees
+Line: 27 - 54 =   79.106606 degrees
+Line: 16 - 56 =   79.48027 degrees
+Line: 35 - 41 =   79.97501 degrees

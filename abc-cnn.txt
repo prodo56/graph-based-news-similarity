@@ -1,0 +1,10 @@
+Results from abc-cnn.txt
+Line: 38 - 11 =   73.221344 degrees
+Line: 32 - 112 =   74.86368 degrees
+Line: 31 - 111 =   75.03678 degrees
+Line: 1 - 24 =   77.07903 degrees
+Line: 7 - 82 =   77.160416 degrees
+Line: 19 - 82 =   77.160416 degrees
+Line: 29 - 58 =   78.22176 degrees
+Line: 5 - 19 =   79.17165 degrees
+Line: 14 - 18 =   79.81793 degrees
